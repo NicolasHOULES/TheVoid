@@ -93,21 +93,19 @@ Nom de base des fichiers: mon_secret
 Message déchiffré: Bonjour le monde
 ```
 
-📂 Organisation des fichiers générés
+## 📂 Organisation des fichiers générés
 
-tokens/ : fichiers .tokens contenant le texte chiffré.
+- **tokens/** : fichiers `.tokens` contenant le texte chiffré.
 
-keys/ : fichiers .key (JSON) avec les métadonnées nécessaires.
+- **keys/** : fichiers `.key` (JSON) avec les métadonnées nécessaires.
 
-Remarque : après un déchiffrement réussi, les fichiers .tokens et .key sont automatiquement supprimés.
+**Remarque** : après un déchiffrement réussi, les fichiers .tokens et .key sont automatiquement supprimés.
 
-🛠 Personnalisation de la base de données
+## 🛠 Personnalisation de la base de données
 
-db_updated.csv doit comporter :
+`db_updated.csv` doit comporter :
 
-Colonne
-
-Description
+| First Header  | Second Header |
 
 dimension
 

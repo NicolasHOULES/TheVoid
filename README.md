@@ -21,7 +21,7 @@
 
 ## 🔧 Prérequis
 
-<ins>Python 3.7 ou supérieur</ins>
+- **Python** `3.7` ou supérieur
 
 Modules standards : os, json, csv, base64, random
 

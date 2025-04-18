@@ -3,23 +3,23 @@
 
 ## 📋 Table des matières
 
-## Prérequis
+- Prérequis
 
-Installation
+- Installation
 
-Structure du projet
+- Structure du projet
 
-Utilisation (CLI)
+- Utilisation (CLI)
 
-Exemple d'exécution
+- Exemple d'exécution
 
-Organisation des fichiers générés
+- Organisation des fichiers générés
 
-Personnalisation de la base de données
+- Personnalisation de la base de données
 
 Licence
 
-🔧 Prérequis
+## 🔧 Prérequis
 
 Python 3.7 ou supérieur
 

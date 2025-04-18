@@ -111,7 +111,7 @@ Message déchiffré: Bonjour le monde
 | element_id | identifiant token (4 chiffres) |
 
 
-📜 Licence
+## 📜 Licence
 
 Ce projet est distribué sous licence MNMN. Voir LICENSE pour plus de détails.
 

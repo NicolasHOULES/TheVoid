@@ -105,10 +105,11 @@ Message déchiffré: Bonjour le monde
 
 `db_updated.csv` doit comporter :
 
-| Name     | Character |
+| Colonne     | Description |
 | ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| dimension | taille du segment (NxN) |
+
+
 
 dimension
 

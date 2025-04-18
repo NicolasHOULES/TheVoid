@@ -58,6 +58,7 @@ Lancez le script :
 Vous accédez à un menu :
 
 `=== Bienvenu sur la cryptographie The VOID ===
+
 +---------------------------+
 | 1. Chiffrer un message    |
 | 2. Déchiffrer un message  |

@@ -41,14 +41,14 @@ source venv/bin/activate`
 
 **3.** Vérifiez la présence de `db_updated.csv`.
 
-🗂 Structure du projet
-
+## 🗂 Structure du projet
+```
 the-void/
 ├── cryptographie_avancee.py   # Script principal CLI
 ├── db_updated.csv            # Base de données des tokens
 ├── keys/                     # Clés & métadonnées (.key)
 └── tokens/                   # Messages chiffrés (.tokens)
-
+```
 💻 Utilisation (CLI)
 
 Lancez le script :

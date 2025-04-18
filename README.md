@@ -1,6 +1,6 @@
 # The VOID - Guide d'utilisation
-The VOID est un outil de chiffrement en ligne de commande conçu pour protéger vos messages. Ce guide présente uniquement les étapes d'installation et d'utilisation, sans entrer dans les détails du mécanisme de chiffrement.
-The VOID est un outil en ligne de commande permettant de chiffrer et déchiffrer vos messages en toute simplicité, sans dévoiler ses mécanismes internes.
+# The VOID
+est un outil de chiffrement en ligne de commande conçu pour protéger vos messages. Ce guide présente uniquement les étapes d'installation et d'utilisation, sans entrer dans les détails du mécanisme de chiffrement.
 
 📋 Table des matières
 

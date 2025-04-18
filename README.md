@@ -66,17 +66,17 @@ Vous accédez à un menu :
 +---------------------------+
 ```
 
-Chiffrer : tapez 1, entrez votre texte, puis un nom de base pour générer :
+**1. Chiffrer** : tapez `1`, entrez votre texte, puis un nom de base pour générer :
 
-tokens/<nom>.tokens
+- `tokens/<nom>.tokens`
 
-keys/<nom>.key
+- `keys/<nom>.key`
 
-Déchiffrer : tapez 2, entrez le nom de base utilisé précédemment. Le message original s’affiche.
+**2. Déchiffrer** : tapez `2`, entrez le nom de base utilisé précédemment. Le message original s’affiche.
 
-Quitter : tapez 3.
+**Quitter** : tapez `3`.
 
-🖥 Exemple d'exécution
+## 🖥 Exemple d'exécution
 
 $ python cryptographie_avancee.py
 Choix: 1

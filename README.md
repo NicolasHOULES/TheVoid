@@ -31,23 +31,24 @@ Fichier `db_updated.csv` à la racine du projet
 
 **1. Cloner le dépôt :**
 
-`git clone https://github.com/votre-utilisateur/the-void.git
-cd the-void`
+```git clone https://github.com/votre-utilisateur/the-void.git
+cd the-void```
 
 **2. (Optionne) Environnement virtuel :**
 
-`python3 -m venv venv
-source venv/bin/activate`
+```python3 -m venv venv
+source venv/bin/activate```
 
 **3.** Vérifiez la présence de `db_updated.csv`.
 
 ## 📑 Structure du projet
-
-`the-void/
+```
+the-void/
 ├── cryptographie_avancee.py   # Script principal CLI
 ├── db_updated.csv            # Base de données des tokens
 ├── keys/                     # Clés & métadonnées (.key)
-└── tokens/                   # Messages chiffrés (.tokens)`
+└── tokens/                   # Messages chiffrés (.tokens)
+```
 
 ## 💻 Utilisation (CLI)
 

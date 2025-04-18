@@ -76,9 +76,9 @@ Vous accédez à un menu :
 
 **3. Quitter** : tapez `3`.
 
-🖥 Exemple d'exécution
+## 🖥 Exemple d'exécution
 
-$ python cryptographie_avancee.py
+```$ python cryptographie_avancee.py
 Choix: 1
 Entrez le message à chiffrer: Bonjour le monde
 Nom de base des fichiers: mon_secret
@@ -89,7 +89,7 @@ Nom de base des fichiers: mon_secret
 $ python cryptographie_avancee.py
 Choix: 2
 Nom de base des fichiers: mon_secret
-Message déchiffré: Bonjour le monde
+Message déchiffré: Bonjour le monde```
 
 📂 Organisation des fichiers générés
 

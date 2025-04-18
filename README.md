@@ -36,13 +36,13 @@ cd the-void```
 
 **2. (Optionne) Environnement virtuel :**
 
-```python3 -m venv venv
-source venv/bin/activate```
+python3 -m venv venv
+source venv/bin/activate
 
 **3.** Vérifiez la présence de `db_updated.csv`.
 
 ## 📑 Structure du projet
-```
+
 the-void/
 ├── cryptographie_avancee.py   # Script principal CLI
 ├── db_updated.csv            # Base de données des tokens

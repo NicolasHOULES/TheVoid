@@ -56,15 +56,14 @@ Lancez le script :
 `python cryptographie_avancee.py`
 
 Vous accédez à un menu :
-
-`=== Bienvenu sur la cryptographie The VOID ===
-
+```
+=== Bienvenu sur la cryptographie The VOID ===
 +---------------------------+
 | 1. Chiffrer un message    |
 | 2. Déchiffrer un message  |
 | 3. Quitter                |
 +---------------------------+
-`
+```
 
 **1. Chiffrer** : tapez `1`, entrez votre texte, puis un nom de base pour générer :
 

@@ -105,7 +105,9 @@ Message déchiffré: Bonjour le monde
 
 `db_updated.csv` doit comporter :
 
-| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 dimension
 

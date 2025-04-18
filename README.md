@@ -23,9 +23,9 @@
 
 - **Python** `3.7` ou supérieur
 
-Modules standards : os, json, csv, base64, random
+Modules standards : `os`, `json`, `csv`, `base64`, `random`
 
-Fichier db_updated.csv à la racine du projet
+Fichier `db_updated.csv` à la racine du projet
 
 🚀 Installation
 

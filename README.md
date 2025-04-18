@@ -105,9 +105,10 @@ Message déchiffré: Bonjour le monde
 
 `db_updated.csv` doit comporter :
 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
 
 dimension
 

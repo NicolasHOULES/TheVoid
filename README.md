@@ -108,6 +108,7 @@ Message déchiffré: Bonjour le monde
 | Colonne     | Description |
 | ---      | ---       |
 | dimension | taille du segment (NxN) |
+| element_id | identifiant token (4 chiffres) |
 
 
 

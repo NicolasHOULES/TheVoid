@@ -78,6 +78,7 @@ Vous accédez à un menu :
 
 ## 🖥 Exemple d'exécution
 
+```
 $ python cryptographie_avancee.py
 Choix: 1
 Entrez le message à chiffrer: Bonjour le monde
@@ -90,6 +91,7 @@ $ python cryptographie_avancee.py
 Choix: 2
 Nom de base des fichiers: mon_secret
 Message déchiffré: Bonjour le monde
+```
 
 📂 Organisation des fichiers générés
 

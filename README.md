@@ -31,8 +31,8 @@ Fichier `db_updated.csv` à la racine du projet
 
 ### 1. Cloner le dépôt :
 
-```git clone https://github.com/votre-utilisateur/the-void.git
-cd the-void```
+`git clone https://github.com/votre-utilisateur/the-void.git
+cd the-void`
 
 (Optionnel) Environnement virtuel :
 

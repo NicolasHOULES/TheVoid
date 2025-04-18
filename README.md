@@ -41,44 +41,42 @@ source venv/bin/activate`
 
 **3.** Vérifiez la présence de `db_updated.csv`.
 
-## 📑 Structure du projet
+🗂 Structure du projet
 
 the-void/
 ├── cryptographie_avancee.py   # Script principal CLI
 ├── db_updated.csv            # Base de données des tokens
 ├── keys/                     # Clés & métadonnées (.key)
 └── tokens/                   # Messages chiffrés (.tokens)
-```
 
-## 💻 Utilisation (CLI)
+💻 Utilisation (CLI)
 
 Lancez le script :
 
-`python cryptographie_avancee.py`
+python cryptographie_avancee.py
 
 Vous accédez à un menu :
-```
+
 === Bienvenu sur la cryptographie The VOID ===
 +---------------------------+
 | 1. Chiffrer un message    |
 | 2. Déchiffrer un message  |
 | 3. Quitter                |
 +---------------------------+
-```
 
-**1. Chiffrer** : tapez `1`, entrez votre texte, puis un nom de base pour générer :
+Chiffrer : tapez 1, entrez votre texte, puis un nom de base pour générer :
 
-- `tokens/<nom>.tokens`
+tokens/<nom>.tokens
 
-- `keys/<nom>.key`
+keys/<nom>.key
 
-**2. Déchiffrer** : tapez `2`, entrez le nom de base utilisé précédemment. Le message original s’affiche.
+Déchiffrer : tapez 2, entrez le nom de base utilisé précédemment. Le message original s’affiche.
 
-**3. Quitter** : tapez `3`.
+Quitter : tapez 3.
 
-## 🖥 Exemple d'exécution
+🖥 Exemple d'exécution
 
-```$ python cryptographie_avancee.py
+$ python cryptographie_avancee.py
 Choix: 1
 Entrez le message à chiffrer: Bonjour le monde
 Nom de base des fichiers: mon_secret
@@ -89,7 +87,7 @@ Nom de base des fichiers: mon_secret
 $ python cryptographie_avancee.py
 Choix: 2
 Nom de base des fichiers: mon_secret
-Message déchiffré: Bonjour le monde```
+Message déchiffré: Bonjour le monde
 
 📂 Organisation des fichiers générés
 
@@ -120,3 +118,4 @@ Ajoutez ou modifiez des lignes pour enrichir votre base de tokens.
 📜 Licence
 
 Ce projet est distribué sous licence MIT. Voir LICENSE pour plus de détails.
+

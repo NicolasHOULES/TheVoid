@@ -111,18 +111,7 @@ Message déchiffré: Bonjour le monde
 | element_id | identifiant token (4 chiffres) |
 
 
-
-dimension
-
-taille du segment (NxN)
-
-element_id
-
-identifiant token (4 chiffres)
-
-Ajoutez ou modifiez des lignes pour enrichir votre base de tokens.
-
 📜 Licence
 
-Ce projet est distribué sous licence MIT. Voir LICENSE pour plus de détails.
+Ce projet est distribué sous licence MNMN. Voir LICENSE pour plus de détails.
 

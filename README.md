@@ -29,50 +29,51 @@ Fichier `db_updated.csv` à la racine du projet
 
 ## 🚀 Installation
 
-### 1. Cloner le dépôt :
+**1. Cloner le dépôt :**
 
 `git clone https://github.com/votre-utilisateur/the-void.git
 cd the-void`
 
-(Optionnel) Environnement virtuel :
+**2. (Optionne) Environnement virtuel :**
 
-python3 -m venv venv
-source venv/bin/activate
+`python3 -m venv venv
+source venv/bin/activate`
 
-Vérifiez la présence de db_updated.csv.
+**3.** Vérifiez la présence de `db_updated.csv`.
 
-🗂 Structure du projet
+## 📑 Structure du projet
 
-the-void/
+`the-void/
 ├── cryptographie_avancee.py   # Script principal CLI
 ├── db_updated.csv            # Base de données des tokens
 ├── keys/                     # Clés & métadonnées (.key)
-└── tokens/                   # Messages chiffrés (.tokens)
+└── tokens/                   # Messages chiffrés (.tokens)`
 
-💻 Utilisation (CLI)
+## 💻 Utilisation (CLI)
 
 Lancez le script :
 
-python cryptographie_avancee.py
+`python cryptographie_avancee.py`
 
 Vous accédez à un menu :
 
-=== Bienvenu sur la cryptographie The VOID ===
+`=== Bienvenu sur la cryptographie The VOID ===
 +---------------------------+
 | 1. Chiffrer un message    |
 | 2. Déchiffrer un message  |
 | 3. Quitter                |
 +---------------------------+
+`
 
-Chiffrer : tapez 1, entrez votre texte, puis un nom de base pour générer :
+**1. Chiffrer** : tapez `1`, entrez votre texte, puis un nom de base pour générer :
 
-tokens/<nom>.tokens
+- `tokens/<nom>.tokens`
 
-keys/<nom>.key
+- `keys/<nom>.key`
 
-Déchiffrer : tapez 2, entrez le nom de base utilisé précédemment. Le message original s’affiche.
+**2. Déchiffrer** : tapez `2`, entrez le nom de base utilisé précédemment. Le message original s’affiche.
 
-Quitter : tapez 3.
+**3. Quitter** : tapez `3`.
 
 🖥 Exemple d'exécution
 

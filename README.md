@@ -17,11 +17,11 @@
 
 - Personnalisation de la base de données
 
-Licence
+- Licence
 
 ## 🔧 Prérequis
 
-Python 3.7 ou supérieur
+<ins>Python 3.7 ou supérieur</ins>
 
 Modules standards : os, json, csv, base64, random
 
